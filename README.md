@@ -1,3 +1,5 @@
+# App Logo
+https://github.com/user-attachments/assets/c169333f-1314-4f18-9ad0-f42ba5476443 
 # Marks,Pass or Fail Calculator:-
  This program will alow you to enter marks in three subject and passing percentage. After that calculate your total marks obtained in three subjects and total percentage and acordingly to your passing percent and percent you got it tell or show you that you passed with 1st, 2nd, 3rd Division or fail.
 
